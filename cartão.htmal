@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cartão Digital - RL Company</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #000;
+      color: white;
+      margin: 0;
+      padding: 20px;
+    }
+    .container {
+      max-width: 400px;
+      margin: 0 auto;
+      background: #111;
+      border-radius: 10px;
+      padding: 20px;
+      text-align: center;
+    }
+    .logo {
+      font-size: 32px;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+    .slogan {
+      font-size: 14px;
+      color: #FFD700;
+      margin-bottom: 20px;
+    }
+    .services {
+      text-align: left;
+      margin-bottom: 20px;
+    }
+    .services li {
+      margin-bottom: 5px;
+    }
+    a {
+      display: block;
+      margin: 10px 0;
+      padding: 10px;
+      background: #FFD700;
+      color: black;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+    a:hover {
+      background: #e6c200;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="logo">RL Company</div>
+    <div class="slogan">Conectamos quem precisa com quem resolve</div>
+
+    <ul class="services">
+      <li>📸 Sistema de câmeras</li>
+      <li>💡 Elétrica Residencial</li>
+      <li>🪚 Móveis Planejados</li>
+      <li>🪟 Vidraçaria</li>
+      <li>🧱 Reforma Predial</li>
+      <li>🔌 Eletricista</li>
+    </ul>
+
+    <a href="tel:+5571992640323">📞 Ligar agora</a>
+    <a href="https://wa.me/5571992640323?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20os%20serviços%20da%20RL%20Company." target="_blank">💬 Falar no WhatsApp</a>
+    <a href="mailto:rl12company@gmail.com">📧 Enviar E-mail</a>
+    <a href="https://www.instagram.com/r.l.company" target="_blank">📱 Instagram</a>
+  </div>
+</body>
+</html>
